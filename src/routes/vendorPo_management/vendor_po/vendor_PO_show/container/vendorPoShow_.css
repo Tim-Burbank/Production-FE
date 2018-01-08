@@ -1,0 +1,19 @@
+.wrap {
+  border-top: 1px solid #d7d7d7;
+  border-left: 1px solid #d7d7d7;
+  overflow: hidden;
+  margin: 0 32px; }
+
+.icon-span {
+  display: inline-block;
+  padding: 6px;
+  border-radius: 50%;
+  line-height: 16px;
+  margin-right: 6px;
+  position: relative;
+  top: 1px; }
+
+.status {
+  background: #00ffff; }
+
+/*# sourceMappingURL=vendorPoShow_.css.map */

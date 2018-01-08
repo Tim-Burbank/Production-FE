@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAAU;EACR,QAAQ,EAAC,KAAK;EACd,MAAM,EAAC,CAAC;EACR,UAAU,EAAC,wBAAsB;EACjC,KAAK,EAAC,IAAI;EACV,UAAU,EAAC,iBAAiB;EAC5B,OAAO,EAAC,GAAG;EACX,OAAO,EAAC,EAAE;;AAIZ,WAAW;EACT,UAAU,EAAC,IAAI;EACf,UAAU,EAAE,MAAM",
+"sources": ["client_po_details.scss"],
+"names": [],
+"file": "client_po_details.css"
+}

@@ -1,0 +1,20 @@
+.group-table .ant-table-small .ant-table-footer {
+  background-color: #f7f7f7; }
+.group-table .ant-table-small .ant-table-body > table {
+  padding: 0; }
+.group-table .ant-table-small th.th-right > span {
+  margin-right: 24px !important; }
+
+.esti-icon {
+  font-size: 23px;
+  margin-top: 5px;
+  cursor: pointer; }
+  .esti-icon:hover {
+    color: #108ee9; }
+
+.btn-group {
+  text-align: center; }
+  .btn-group button {
+    margin-right: 10px; }
+
+/*# sourceMappingURL=group.css.map */

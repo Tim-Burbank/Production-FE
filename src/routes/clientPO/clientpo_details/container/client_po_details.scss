@@ -1,0 +1,15 @@
+.btn-fixed{
+  position:fixed;
+  bottom:0;
+  background:rgba(253, 253, 253,.9);
+  width:100%;
+  border-top:1px solid #d3d3d3;
+  padding:5px;
+  z-index:99
+
+}
+
+.btn-normal{
+  margin-top:40px;
+  text-align: center;
+}

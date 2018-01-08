@@ -1,0 +1,35 @@
+.group-table{
+  .ant-table-small{
+    .ant-table-footer{
+      background-color:#f7f7f7;
+    }
+    .ant-table-body>table{
+      padding: 0;
+    }
+    th.th-right>span{
+        margin-right:24px !important;
+    }
+  }
+}
+.esti-icon{
+  font-size:23px;
+  margin-top:5px;
+  cursor: pointer;
+  &:hover{
+    color:#108ee9
+  }
+}
+
+
+
+.btn-group{
+  text-align: center;
+  button{
+    margin-right:10px;
+  }
+}
+
+
+
+
+

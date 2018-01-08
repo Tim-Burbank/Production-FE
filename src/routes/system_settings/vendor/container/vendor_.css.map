@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,uBAAwB;EACtB,OAAO,EAAE,GAAG;EACZ,aAAa,EAAE,GAAG;EAClB,UAAU,EAAE,IAAI;EAChB,UAAU,EAAE,4BAA2B;;AAGzC,6BAA8B;EAC5B,KAAK,EAAE,KAAK;EACZ,YAAY,EAAE,GAAG;;AAGnB,UAAW;EACT,KAAK,EAAE,IAAI",
+"sources": ["vendor_.scss"],
+"names": [],
+"file": "vendor_.css"
+}
