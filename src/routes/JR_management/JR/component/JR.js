@@ -103,6 +103,9 @@ class JRMainPage extends React.Component{
     });
   }
   handleModal=()=>{
+
+
+    
     const {dispatch,params,intl:{formatMessage}} = this.props;
     this.form.validateFields((err, values) => {
       if (!err) {
