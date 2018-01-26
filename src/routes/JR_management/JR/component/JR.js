@@ -101,11 +101,13 @@ class JRMainPage extends React.Component{
       filteredInfo: filters,
       // sortedInfo: sorter,
     });
-  }
-  handleModal=()=>{
+
 
 
     
+  }
+  handleModal=()=>{
+
     const {dispatch,params,intl:{formatMessage}} = this.props;
     this.form.validateFields((err, values) => {
       if (!err) {
